@@ -7,7 +7,7 @@ This project is simple Flutter example.
 ## Technologies
 Dart / Flutter
 
-## Technologies
+## Secreenshots
 
 <img src="https://user-images.githubusercontent.com/1651820/143032805-556f51e2-77db-4a1b-89cf-410ce4ae5639.png" width="300">
 <img src="https://user-images.githubusercontent.com/1651820/143032836-450cb6a7-4ac9-4851-92db-06ac0da837b2.png" width="300">
